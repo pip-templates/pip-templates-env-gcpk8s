@@ -1,0 +1,15 @@
+{
+    "gcp_billing_account_id": "XXXXXX-XXXXXX-XXXXXX",
+    "gcp_project_name": "pip Templates 1",
+    "env_name": "pip-templates",
+
+    "k8s_cluster_name": "pip-templates-stage",
+    "k8s_cluster_zone": "us-east1-b",
+    "k8s_cluster_version": "1.15.12-gke.2",
+    "k8s_nodes_count": "2",
+    "k8s_nodes_machine_type": "e2-micro",
+    "k8s_nodes_image": "UBUNTU",
+    "k8s_nodes_disk_type": "pd-standard",
+    "k8s_nodes_disk_size": "100",
+    "k8s_nodes_max_pods": "110"
+}
